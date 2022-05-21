@@ -1,0 +1,2 @@
+# safari_hotel
+new
